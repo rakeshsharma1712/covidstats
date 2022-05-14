@@ -14,6 +14,9 @@ As an output two files were created: Daily basis file and single file with all d
 In future, this file can be stored in cloud DB if needed. 
 This file can be used by Power BI to create related visuals.
 
+# Website: mygov.in
+![mygov-in](https://user-images.githubusercontent.com/95287626/164154398-1b504e47-7a20-465f-ae57-3b0296cfb615.JPG)
+
 # State level data
 ![State-Level](https://user-images.githubusercontent.com/95287626/164154398-1b504e47-7a20-465f-ae57-3b0296cfb615.JPG)
 
